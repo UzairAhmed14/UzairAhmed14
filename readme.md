@@ -12,13 +12,13 @@ Senior Software Engineer who enjoys building clean, scalable systems — from .N
 
 ### **Tools & Tech**
 
-**Languages:** C#, Python, C++, JavaScript
-**Frameworks:** .NET, FastAPI, React
-**Cloud:** Azure.
-**Trading:** Pine Script, MT5, Binance API
-**DevOps:** Docker, Git, GitHub Actions
+* **Languages:** C#, Python, C++, JavaScript
+* **Frameworks:** .NET, Django, FastAPI, React
+* **Cloud:** Azure.
+* **Trading:** Pine Script, MT5, Binance API
+* **DevOps:** Docker, Git, GitHub Actions, CI/CD
 
 ### **Stay In Touch**
 
-📧 **Email:** [uzairahmed_14@hotmail.com](mailto:uzairahmed_14@hotmail.com)
-🔗 **LinkedIn:** [https://www.linkedin.com/in/uzairahmed14/](https://www.linkedin.com/in/uzairahmed14/)
+* 📧 **Email:** [uzairahmed_14@hotmail.com](mailto:uzairahmed_14@hotmail.com)
+* 🔗 **LinkedIn:** [https://www.linkedin.com/in/uzairahmed14/](https://www.linkedin.com/in/uzairahmed14/)
