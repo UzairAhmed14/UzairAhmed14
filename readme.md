@@ -4,7 +4,7 @@
 
 Senior Software Engineer who enjoys building clean, scalable systems — from .NET backends to Python AI tools and algorithmic trading automation. I love solving real problems with smart engineering.
 
-### **What am I currently working on?**
+### **Current Adventures**
 
 * AI-powered apps and microservices
 * Crypto & FX trading bots using Python, MT5, and Binance APIs
@@ -18,7 +18,7 @@ Senior Software Engineer who enjoys building clean, scalable systems — from .N
 **Trading:** Pine Script, MT5, Binance API
 **DevOps:** Docker, Git, GitHub Actions
 
-### **How to reach me?**
+### **Stay In Touch**
 
 📧 **Email:** [uzairahmed_14@hotmail.com](mailto:uzairahmed_14@hotmail.com)
 🔗 **LinkedIn:** [https://www.linkedin.com/in/uzairahmed14/](https://www.linkedin.com/in/uzairahmed14/)
